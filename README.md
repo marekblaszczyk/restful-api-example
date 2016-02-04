@@ -8,4 +8,3 @@ We did:
 - unit (Mocha) and integration (Supertest) testing example,
 - using Hypermedia in resources,
 - self documenting API,
--
